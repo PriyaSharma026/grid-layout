@@ -49,15 +49,20 @@ img{
 
 /* ||GENERAL STYLES */
 body{
+    height: 100vh;
     font-family: var(--ff);
     background-color: var(--bg-color);
     font-size: var(--fs-normal);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 /* ||MOBILE LAYOUT */
 .testimonial-grid{
     width: 90%;
-    margin: 4rem auto;
+    /* margin: 0 auto; */
 }
 
 .sections{
