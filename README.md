@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/PriyaSharma026/grid-layout)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://priyasharma026.github.io/grid-layout/)
 
 ## My process
 
